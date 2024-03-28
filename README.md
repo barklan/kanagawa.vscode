@@ -40,7 +40,7 @@ Enabled by default.
 
 ```json
 {
-  "gopls.ui.semanticTokens": true
+  "gopls": { "ui.semanticTokens": true }
 }
 ```
 
